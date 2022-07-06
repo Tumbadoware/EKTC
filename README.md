@@ -8,3 +8,8 @@ EternalKash Tiktok Checker, Checks for 4L/4C tiktok usernames and reports it to 
 4. Run this command `pip install -r requirements.txt`
 5. Run this command 'python EKTC.py`
 6. Imput your webhook link and enjoy
+
+# TUMBADOWARE
+Discord: Chief Keef#8882 <br>
+Twitter: fw_eternal <br>
+INSTAGRAM: tumbadoware <br>
